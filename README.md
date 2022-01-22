@@ -1,7 +1,5 @@
 ### Olá, seja bem-vindo. Meu nome é Yukio, este é meu repositório! 👋
 
-/i
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 

@@ -1,5 +1,6 @@
 ### Olá, seja bem-vindo. Meu nome é Yukio, este é meu repositório! 👋
 
+![Redes Sociais](https://github.com/yukioandre/yukioandre/blob/main/Banner%20Geral.png) 
 
 <b>Um pouco sobre minha formação e experiência:</b>
 - 🙋‍♂️ Sou formado em Matemática, pós-graduado em Finanças e mestre em Economia.

@@ -5,7 +5,8 @@
 <b>Regarding my background / experience:</b>
 - 🙋‍♂️ I have a degree in Mathematics, a specialization (postgraduate degree) in Finance and a Master's in Economics.
 - 🎲 I have been working with Data Science / Machine Learning since 2015.
-- 👔 I've worked in some brazilian companies such as Itaú, HSBC, Vivo and GetNinjas. I also taught Data Science at Digital House for 3 months.
+- 👔 I've worked in some brazilian companies such as Itaú, HSBC, Vivo and GetNinjas. 
+- 👨🏻‍🏫 I've taught Data Science at Digital House for 3 months.
 - 🪙 I've worked with Finance, Risks, Credit and Pricing.
 - ⌨️ I have experience with Python, R, SAS, SQL and Excel.
 - 📫 Wanna get in touch? Write an email to universidadedosdados@gmail.com

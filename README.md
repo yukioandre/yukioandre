@@ -1,17 +1,16 @@
 ![Banner Principal](https://github.com/yukioandre/yukioandre/blob/main/Banner.png) 
 
-### Olá, seja bem-vindo. Meu nome é Yukio e este é meu repositório! 👋
+### Hi, there! My name is Yukio and this is my Data Science / Machine Learning repository! 👋
 
-<b>Um pouco sobre minha formação e experiência:</b>
-- 🙋‍♂️ Sou formado em Matemática, pós-graduado em Finanças e mestre em Economia.
-- 🎲 Atuo com Ciência de Dados / Machine Learning desde 2015.
-- 👔 Já passei por empresas como Itaú, HSBC, Vivo e GetNinjas. Também fui professor da Digital House.
-- 🪙 No mercado, atuei com Finanças, Riscos, Crédito e Precificação.
-- ⌨️ Tenho experiência com Python, R, SAS, SQL e Excel. 
-- 📫 Se quiser entrar em contato, meu e-mail é universidadedosdados@gmail.com
+<b>Regarding my background / experience:</b>
+- 🙋‍♂️ I have a degree in Mathematics, a specialization (postgraduate degree) in Finance and a Master's in Economics.
+- 🎲 I have been working with Data Science / Machine Learning since 2015.
+- 👔 I've worked in some brazilian companies such as Itaú, HSBC, Vivo and GetNinjas. I also taught Data Science at Digital House for 3 months.
+- 🪙 I've worked with Finance, Risks, Credit and Pricing.
+- ⌨️ I have experience with Python, R, SAS, SQL and Excel.
+- 📫 Wanna get in touch? Write an email to universidadedosdados@gmail.com
 
-
-Não deixe de dar uma passada no meu blog [Estatsite](www.estatsite.com.br) e meu [Canal Universidade dos Dados](https://www.youtube.com/channel/UCZDVnGEyggjuo2kgpmXdzGA), no Youtube.
+Be sure to check out my blog [Estatsite](www.estatsite.com.br) and my Youtube Channel, [Canal Universidade dos Dados](https://www.youtube.com/channel/UCZDVnGEyggjuo2kgpmXdzGA).
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)

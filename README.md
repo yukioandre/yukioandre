@@ -1,4 +1,4 @@
-![Banner Principal](https://github.com/yukioandre/yukioandre/blob/main/Banner.png) 
+![Banner Principal](https://github.com/yukioandre/yukioandre/blob/main/banner.png) 
 
 ### Hi, there! My name is Yukio and this is my Data Science / Machine Learning repository! 👋
 
